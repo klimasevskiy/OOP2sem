@@ -1,0 +1,15 @@
+C:\Users\Макс\source\repos\ООП 2 СЕМ\lab4\bin\Debug\net5.0\lab4.exe
+C:\Users\Макс\source\repos\ООП 2 СЕМ\lab4\bin\Debug\net5.0\lab4.deps.json
+C:\Users\Макс\source\repos\ООП 2 СЕМ\lab4\bin\Debug\net5.0\lab4.runtimeconfig.json
+C:\Users\Макс\source\repos\ООП 2 СЕМ\lab4\bin\Debug\net5.0\lab4.runtimeconfig.dev.json
+C:\Users\Макс\source\repos\ООП 2 СЕМ\lab4\bin\Debug\net5.0\lab4.dll
+C:\Users\Макс\source\repos\ООП 2 СЕМ\lab4\bin\Debug\net5.0\ref\lab4.dll
+C:\Users\Макс\source\repos\ООП 2 СЕМ\lab4\bin\Debug\net5.0\lab4.pdb
+C:\Users\Макс\source\repos\ООП 2 СЕМ\lab4\obj\Debug\net5.0\lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Макс\source\repos\ООП 2 СЕМ\lab4\obj\Debug\net5.0\lab4.AssemblyInfoInputs.cache
+C:\Users\Макс\source\repos\ООП 2 СЕМ\lab4\obj\Debug\net5.0\lab4.AssemblyInfo.cs
+C:\Users\Макс\source\repos\ООП 2 СЕМ\lab4\obj\Debug\net5.0\lab4.csproj.CoreCompileInputs.cache
+C:\Users\Макс\source\repos\ООП 2 СЕМ\lab4\obj\Debug\net5.0\lab4.dll
+C:\Users\Макс\source\repos\ООП 2 СЕМ\lab4\obj\Debug\net5.0\ref\lab4.dll
+C:\Users\Макс\source\repos\ООП 2 СЕМ\lab4\obj\Debug\net5.0\lab4.pdb
+C:\Users\Макс\source\repos\ООП 2 СЕМ\lab4\obj\Debug\net5.0\lab4.genruntimeconfig.cache
