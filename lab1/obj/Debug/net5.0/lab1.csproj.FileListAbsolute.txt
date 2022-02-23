@@ -1,0 +1,16 @@
+C:\Users\Макс\source\repos\ООП 2 СЕМ\lab1\obj\Debug\net5.0\lab1.csproj.AssemblyReference.cache
+C:\Users\Макс\source\repos\ООП 2 СЕМ\lab1\obj\Debug\net5.0\lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Макс\source\repos\ООП 2 СЕМ\lab1\obj\Debug\net5.0\lab1.AssemblyInfoInputs.cache
+C:\Users\Макс\source\repos\ООП 2 СЕМ\lab1\obj\Debug\net5.0\lab1.AssemblyInfo.cs
+C:\Users\Макс\source\repos\ООП 2 СЕМ\lab1\obj\Debug\net5.0\lab1.csproj.CoreCompileInputs.cache
+C:\Users\Макс\source\repos\ООП 2 СЕМ\lab1\bin\Debug\net5.0\lab1.exe
+C:\Users\Макс\source\repos\ООП 2 СЕМ\lab1\bin\Debug\net5.0\lab1.deps.json
+C:\Users\Макс\source\repos\ООП 2 СЕМ\lab1\bin\Debug\net5.0\lab1.runtimeconfig.json
+C:\Users\Макс\source\repos\ООП 2 СЕМ\lab1\bin\Debug\net5.0\lab1.runtimeconfig.dev.json
+C:\Users\Макс\source\repos\ООП 2 СЕМ\lab1\bin\Debug\net5.0\lab1.dll
+C:\Users\Макс\source\repos\ООП 2 СЕМ\lab1\bin\Debug\net5.0\ref\lab1.dll
+C:\Users\Макс\source\repos\ООП 2 СЕМ\lab1\bin\Debug\net5.0\lab1.pdb
+C:\Users\Макс\source\repos\ООП 2 СЕМ\lab1\obj\Debug\net5.0\lab1.dll
+C:\Users\Макс\source\repos\ООП 2 СЕМ\lab1\obj\Debug\net5.0\ref\lab1.dll
+C:\Users\Макс\source\repos\ООП 2 СЕМ\lab1\obj\Debug\net5.0\lab1.pdb
+C:\Users\Макс\source\repos\ООП 2 СЕМ\lab1\obj\Debug\net5.0\lab1.genruntimeconfig.cache
